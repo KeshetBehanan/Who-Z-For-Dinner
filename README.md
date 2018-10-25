@@ -3,9 +3,9 @@
 Stay alive, kill zombies, and don't fall! Get the highest score in this zombie killing survival game in... a kitchen with your bunny hat and giant slipper gun? Have fun!
 
 ### Links:
-![Ludum Dare](https://ldjam.com/events/ludum-dare/42/whats-for-dinner)
+[Ludum Dare](https://ldjam.com/events/ludum-dare/42/whats-for-dinner)
 
-![Itch.io](https://keshetbehanan.itch.io/who-z-for-dinner)
+[Itch.io](https://keshetbehanan.itch.io/who-z-for-dinner)
 
 ## Controls:
 
