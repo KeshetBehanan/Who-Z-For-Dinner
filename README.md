@@ -2,6 +2,11 @@
 
 Stay alive, kill zombies, and don't fall! Get the highest score in this zombie killing survival game in... a kitchen with your bunny hat and giant slipper gun? Have fun!
 
+### Links:
+![Ludum Dare](https://ldjam.com/events/ludum-dare/42/whats-for-dinner)
+
+![Itch.io](https://keshetbehanan.itch.io/who-z-for-dinner)
+
 ## Controls:
 
 > Mouse to aim
@@ -22,6 +27,12 @@ Stay alive, kill zombies, and don't fall! Get the highest score in this zombie k
 > Art - Leida - https://www.artstation.com/ieida
 
 > Art - Akusan - https://akusan.itch.io/
+
+## Contacts:
+
+> Leida - Discord/E-Mail - Leida -#8727, gomnosano@gmail.com
+
+> KeshetBehanan - Discord - KeshetBehanan#6796
 
 We had a fun time building this game. We truly hope that you'll enjoy the game and have a great rest of your day!
 
